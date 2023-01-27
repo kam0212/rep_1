@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<!-- Head Section Content -->
+<head>
+ 
+    <!-- Page title -->
+    <title>Basic form design using HTML</title>
+</head>
+ 
+<!-- Body Section Content -->
+<body>
+ 
+    <!-- Heading Content -->
+    <h1>GeeksforGeeks</h1>
+    
+    <h3>Design using HTML</h3>
+ 
+<a href="C:\Users\User\Documents\Vedant\1.html">1.HTML</a>
+		
+
+</body>
+
+ 
+</html>
